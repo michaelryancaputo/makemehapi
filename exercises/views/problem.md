@@ -3,9 +3,9 @@ located at `templates/index.html` which outputs the following HTML:
 
 ```html
 <html>
-    <head><title>Hello Handling</title></head>
+    <head><title>Hello the handling</title></head>
     <body>
-        Hello Handling
+        Hello the handling
     </body>
 </html>
 ```
